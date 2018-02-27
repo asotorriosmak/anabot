@@ -4,7 +4,7 @@
   "description": "Cisco Spark Bots built with the Botkit framework",
   "main": "helloworld.js",
   "scripts": { 
-    "start": "cross-env SPARK_TOKEN=OTQ1Y2I4ODgtM2JlMy00YzgzLTgwMmMtMzQ3OGI1NGNhYmQwM2NjYzUwOTgtM2Mw PUBLIC_URL=https://anabot.herokuapp.com SECRET=empty node helloworld.js",
+    "start": "cross-env SPARK_TOKEN=OTQ1Y2I4ODgtM2JlMy00YzgzLTgwMmMtMzQ3OGI1NGNhYmQwM2NjYzUwOTgtM2Mw PUBLIC_URL=https://anabot2018.herokuapp.com SECRET=empty node helloworld.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
